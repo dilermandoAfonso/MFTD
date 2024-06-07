@@ -1,7 +1,7 @@
  - Instale um ambiente virtual usando o comando `pip install virtualenv` no cmd.
  - Crie usando `virtualenv meuAV` no cmd.
- - Na linha de comando, navegue pela pasta "Script" do "meuAv" e ative o ambiente virtual utilizando "meuAV\Scripts\activate" no cmd.
+ - Na linha de comando, navegue pela pasta "Script" do "meuAv" e ative o ambiente virtual utilizando `meuAV\Scripts\activate` no cmd.
  - Se o nome do ambiente estiver em parênteses no prompt, é sinal de que você está dentro do AV.
- - Para instalar as bibliotecas listadas no arquivo requirements - usadas no projeto -, utilize "pip install -r requirements.txt".
- - Depois, ative a aplicação app.py usando o comando "python app.py".
+ - Para instalar as bibliotecas listadas no arquivo requirements - usadas no projeto -, utilize `pip install -r requirements.txt`.
+ - Depois, ative a aplicação app.py usando o comando `python app.py`.
  - Agora é só abrir o index.html, localizado na pasta "static" com o Live Server. 
