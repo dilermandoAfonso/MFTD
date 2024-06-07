@@ -1,4 +1,4 @@
- - Instale um ambiente virtual usando o comando 'pip install virtualenv' no cmd.
+ - Instale um ambiente virtual usando o comando `pip install virtualenv` no cmd.
  - Crie usando "virtualenv meuAV" no cmd.
  - Na linha de comando, navegue pela pasta "Script" do "meuAv" e ative o ambiente virtual utilizando "meuAV\Scripts\activate" no cmd.
  - Se o nome do ambiente estiver em parênteses no prompt, é sinal de que você está dentro do AV.
